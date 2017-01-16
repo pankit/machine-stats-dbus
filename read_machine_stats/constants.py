@@ -1,0 +1,1 @@
+DISK_SPACE_COMMAND = 'df -h'
